@@ -3,6 +3,6 @@ Team members: James Escudero, Mankirat Singh Mann, Oisin Perkins-Gilbert
 
 James: There wasn't any issues at all for me. Quite a review and a referesher. 
 
-Mankirat:
+Mankirat: I have mostly done these things in Github before but working with the terminal was something completely new for me so it look a little while to get used to it.
 
 Oisin: We've done things in Git before, but not in GitBash. Working with the command line is cool, but I prefer using the other tools I have to mess with Github because it's a little more intuitive. Overall, wasn't too bad. Most issues I had were solved with Googling (mainly just not knowing the commands).
